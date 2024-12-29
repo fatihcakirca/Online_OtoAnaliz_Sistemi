@@ -1,2 +1,2 @@
 # Online_OtoAnaliz_Sistemi
-2020 Nisan'dan 2022 Aralık'a Kadar Olan Araç Kasko Verilerini Alıp Gösteren HTML, CSS, PHP ve Python Kullanılarak Oluşturulmuş Web Sitesi
+Bu proje, Python kullanılarak araç kasko verilerini çekip inceleyerek bu verilere kolayca erişim sağlayabilmek amacıyla oluşturulmuş bir web sitesidir. Sitenin giriş sayfasından kullanıcı adı ve şifreyle giriş yapıldıktan sonra çekilip incelemenin yapıldığı verilerin bulunduğu sayfaya erişim sağlanarak ilgili araç verilerine kolaylıkla ulaşılabilir. Herhangi bir kullanıcı adı ve şifre yoksa da kayıt ol bölümünden kayıt işlemi gerçekleştirilerek sayfaya erişilebilir.
